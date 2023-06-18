@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0 ;
+    gap:60px;
+   
+}
+

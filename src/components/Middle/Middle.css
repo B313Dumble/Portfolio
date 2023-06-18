@@ -1,0 +1,51 @@
+
+
+
+.about__img{
+    width: 230px;
+    height: 230px;
+    border-radius: 15px;
+    position: relative;
+    left: 400px;
+    
+}
+
+.about-me{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    position: relative;
+}
+
+.section__title{
+    font-size:45px;
+    font-weight: 900;
+    position: relative;
+    bottom: 10px;
+    text-align: center;
+}
+
+.section__subtitle{
+    background-color: #00C4FF;
+    width: 385%;
+    height: 40px;
+    font-size:21px;
+    position: relative;
+    bottom: 5px;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.9);
+    
+}
+
+.about__body{
+    width: 240px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.about-div{
+
+}
+
