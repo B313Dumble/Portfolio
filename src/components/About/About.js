@@ -68,9 +68,9 @@ export default function About() {
             <li>
               <a
                 className="aEl"
-                href="https://www.udemy.com/course/react-2nd-edition/learn/lecture/7707682?start=0#overview"
+                href="https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/31119652?start=195#overview"
               >
-                The Complete React Developer Course - Udemy
+                Complete React Developer in 2023 - Udemy
               </a>
             </li>
           </ul>
