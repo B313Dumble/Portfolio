@@ -73,6 +73,14 @@ export default function About() {
                 The Modern JavaScript Bootcamp - Udemy
               </a>
             </li>
+            <li>
+              <a
+                className="aEl"
+                href="https://www.udemy.com/course/react-2nd-edition/learn/lecture/7707682?start=0#overview"
+              >
+                The Complete React Developer Course - Udemy
+              </a>
+            </li>
           </ul>
         </div>
       </div>
