@@ -60,14 +60,6 @@ export default function About() {
             <li>
               <a
                 className="aEl"
-                href="https://www.udemy.com/course/understanding-html-and-css/learn/lecture/29889216?start=0#overview"
-              >
-                Understanding HTML and CSS - Udemy
-              </a>
-            </li>
-            <li>
-              <a
-                className="aEl"
                 href="https://www.udemy.com/course/modern-javascript/learn/lecture/9862404?start=15#overview"
               >
                 The Modern JavaScript Bootcamp - Udemy
