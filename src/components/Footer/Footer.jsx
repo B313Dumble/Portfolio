@@ -5,7 +5,7 @@ const Footer = () => {
   const sites = [
     {
       name: "Movies",
-      url: "https://venerable-biscochitos-c79011.netlify.app/",
+      url: "https://mellifluous-puffpuff-ecfc50.netlify.app/",
       image: "img/portfolio-05.jpg",
     },
     {
